@@ -1,10 +1,7 @@
-Sinatra
+Beer perosnality Test
 =============
+soheilhm
 
-Brought to you by Lighthouse Labs
+Built in Sinatra framework, utilized postgresql database and integrated Tweeter and Facebook APIs
 
-## Getting Started
-
-1. `bundle install`
-2. `shotgun -p 3000 -o 0.0.0.0`
-3. Visit `http://localhost:3000/` in your browser
+visit: https://beer-personality-test.herokuapp.com/home
